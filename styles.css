@@ -1,0 +1,22 @@
+
+
+input.city-name {
+    height: 46px;
+}
+.result {
+    padding: 20px;
+}
+.results-list-container > div {
+    margin-top: 15px;
+}
+.high {
+    color: red;
+}
+.low {
+    color: blue;
+}
+.results-list-container .description.padding-0 {
+    padding-left: 0;
+    padding-right: 0;
+    font-style: italic;
+}
